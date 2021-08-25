@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Tip calculator app</title>
+
+    <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/media-query.css" />
+  </head>
+  <body>
+    <div class="temp">
+      <div class="content-wrap">
+        <header class="header">
+          <h1 class="heading">Tip Calculator</h1>
+          <img
+            class="logo-img"
+            src="/images/logo.svg"
+            alt="Tip calculator logo"
+          />
+        </header>
+
+        <main class="container">
+          <div class="tip-block">
+            <section class="box left-block">
+              <div class="tip-selector">
+                <div class="row-1">
+                  <div class="label-row">
+                    <label class="tip-text" for="tip">Bill</label>
+                    <label class="error-msg-1" for="person">msg</label>
+                  </div>
+                  <label class="tip-temp">
+                    <input
+                      class="usr-tip amt"
+                      type="number"
+                      name="tip"
+                      id="tip"
+                      placeholder="0"
+                    />
+                  </label>
+                </div>
+                <div class="row-2">
+                  <label class="tip-text" for="tip"> Select Tip %</label>
+                  <div class="btn-grid">
+                    <button class="btn btn-tip" onclick="tip_per(this)">
+                      5%
+                    </button>
+                    <button class="btn btn-tip" onclick="tip_per(this)">
+                      10%
+                    </button>
+                    <button class="btn btn-tip" onclick="tip_per(this)">
+                      15%
+                    </button>
+                    <button class="btn btn-tip" onclick="tip_per(this)">
+                      25%
+                    </button>
+                    <button class="btn btn-tip" onclick="tip_per(this)">
+                      50%
+                    </button>
+                    <input
+                      class="btn custom_val"
+                      type="number"
+                      placeholder="Custom"
+                    />
+                  </div>
+                </div>
+                <div class="row-3">
+                  <div class="label-row">
+                    <label class="person-text" for="person"
+                      >Number of People</label
+                    >
+                    <label class="error-msg-2" for="person">msg</label>
+                  </div>
+                  <label class="person-temp">
+                    <input
+                      class="usr-tip no_person"
+                      type="number"
+                      name="person"
+                      id="person"
+                      placeholder="0"
+                    />
+                  </label>
+                </div>
+              </div>
+            </section>
+            <section class="box right-block">
+              <div class="output-block">
+                <p class="tip-amt-p">
+                  Tip Amount<br /><span class="p-span">/ person</span>
+                </p>
+                <p class="val-align tip-amt-val">
+                  <span class="dollar-sign">$</span>0.00
+                </p>
+                <p class="total-amt-p">
+                  Total<br /><span class="p-span">/ person</span>
+                </p>
+                <p class="val-align total-amt-val">
+                  <span class="dollar-sign">$</span>0.00
+                </p>
+                <button class="reset-btn">reset</button>
+              </div>
+            </section>
+          </div>
+        </main>
+      </div>
+      <footer class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by ❤️ <a href="#">Aakash Verma</a>.
+      </footer>
+    </div>
+    <script defer src="js/logic.js"></script>
+  </body>
+</html>
