@@ -5,7 +5,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
@@ -273,7 +273,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
