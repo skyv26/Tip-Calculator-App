@@ -63,6 +63,7 @@ This challenge is completely free. Please share it with anyone who will find it 
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
