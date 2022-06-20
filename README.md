@@ -1,4 +1,3 @@
-# Frontend Mentor - Tip calculator app
 
 ![Design preview for the Tip calculator app coding challenge](./design/desktop-preview.jpg)
 
@@ -80,7 +79,7 @@ For more information on the importance of a professional README for your reposit
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Tip calculator app</b></h3>
 
 </div>
 
@@ -110,11 +109,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Tip calculator app <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Tip calculator app** is a vanilla js application for calculating the tip amount according to number of customer or people.
 
 ## 🛠 Built With <a name="built-with"></a>
 
