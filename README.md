@@ -62,7 +62,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
@@ -154,19 +153,6 @@ Clone this repository to your desired folder:
   cd DESIRED_FOLDER
   git clone https://github.com/skyv26/Tip-Calculator-App
 ```
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
