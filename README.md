@@ -63,7 +63,6 @@ This challenge is completely free. Please share it with anyone who will find it 
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -234,22 +233,6 @@ If you like this project...
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank [Frontend Mentor](https://www.frontendmentor.io) 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
