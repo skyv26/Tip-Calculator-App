@@ -111,8 +111,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **View the optimal layout for the app depending on their device's screen size**
 - **See hover states for all interactive elements on the page**
 - **Calculate the correct tip and total cost of the bill per person**
@@ -123,7 +121,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -132,8 +129,6 @@ This challenge is completely free. Please share it with anyone who will find it 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -177,8 +172,6 @@ Example:
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
