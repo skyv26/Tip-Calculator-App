@@ -113,9 +113,9 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **View the optimal layout for the app depending on their device's screen size**
+- **See hover states for all interactive elements on the page**
+- **Calculate the correct tip and total cost of the bill per person**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
