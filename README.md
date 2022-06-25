@@ -75,15 +75,11 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 # 📖 Tip calculator app <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Tip calculator app** is a vanilla js application for calculating the tip amount according to number of customer or people.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -180,8 +176,6 @@ You can deploy this project using gh-pages or other platforms like vercel.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **Add more breakpoints to make it responsive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -199,8 +193,6 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
 
 If you like this project...
 
