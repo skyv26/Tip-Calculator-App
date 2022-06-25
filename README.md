@@ -182,9 +182,7 @@ You can deploy this project using gh-pages or other platforms like vercel.
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Add more breakpoints to make it responsive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
