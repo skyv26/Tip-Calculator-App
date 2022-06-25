@@ -161,4 +161,4 @@ I would like to thank [Frontend Mentor](https://www.frontendmentor.io)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
