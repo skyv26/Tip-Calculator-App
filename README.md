@@ -63,7 +63,6 @@ This challenge is completely free. Please share it with anyone who will find it 
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -160,18 +159,6 @@ Clone this repository to your desired folder:
 Please use the VSCode and with the help of live
 server extension run it directly.
 ```
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
